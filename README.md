@@ -6,4 +6,4 @@ As I'm completely unfamiliar with its interfacing methods, I first tried the exa
 
 Here it is :)
 
-PS: I also added a special feature when you choose a particular birthday, see if you can find it?
+PS: I also added a special response for when you choose a particular birthday, see if you can find it?
